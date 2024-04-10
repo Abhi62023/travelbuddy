@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "travelbuddy"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
